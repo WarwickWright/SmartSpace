@@ -1,0 +1,26 @@
+[
+  {
+    "key":"0001",
+    "name":"Blue Sapphire",
+    "thumbnailUrl":"https://www.smartspaceglobal.com/img/MeetingRoom1_Thumbnail.JPG",
+    "capacity":24
+  },
+  {
+    "key":"0002",
+    "name":"Dragonstone",
+    "thumbnailUrl":"https://www.smartspaceglobal.com/img/MeetingRoom2_Thumbnail.JPG",
+    "capacity":30
+  },
+  {
+    "key":"0003",
+    "name":"Meeting Room C3",
+    "thumbnailUrl":"https://www.smartspaceglobal.com/img/MeetingRoom3_Thumbnail.JPG",
+    "capacity":65
+  },
+  {
+    "key":"0004",
+    "name":"Thunderdome",
+    "thumbnailUrl":"https://www.smartspaceglobal.com/img/MeetingRoom4_Thumbnail.JPG",
+    "capacity":4
+  }
+]

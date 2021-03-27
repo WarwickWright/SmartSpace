@@ -1,0 +1,97 @@
+{
+  "key":"0001",
+  "name":"Blue Sapphire",
+  "heroImageUrl":"https://www.smartspaceglobal.com/img/MeetingRoom1.jpg",
+  "capacity":24,
+  "location":{
+    "region":{
+      "key":"123",
+      "name":"Hong Kong"
+    },
+    "site":{
+      "key":"234",
+      "name":"Hong Kong Exchange Square"
+    },
+    "building":{
+      "key":"456",
+      "name":"Two International Finance Centre"
+    },
+    "floor":{
+      "key":"567",
+      "name":"Floor 12"
+    }
+  },
+  "features":[
+    {
+      "key":"511",
+      "name":"Blackout Option"
+    },
+    {
+      "key":"512",
+      "name":"Blinds"
+    },
+    {
+      "key":"513",
+      "name":"Folding Wall"
+    },
+    {
+      "key":"514",
+      "name":"Natural Light"
+    },
+    {
+      "key":"515",
+      "name":"Virtual MR"
+    }
+  ],
+  "services":[
+    {
+      "key":"302",
+      "name":"Catering",
+      "iconUrl":"https://www.smartspaceglobal.com/img/icons/Catering.png"
+    }
+  ],
+  "facilities":[
+    {
+      "key":"611",
+      "name":"Audio",
+      "iconUrl":"https://www.smartspaceglobal.com/img/icons/Audio.png"
+    },
+    {
+      "key":"612",
+      "name":"Control Panel",
+      "iconUrl":"https://www.smartspaceglobal.com/img/icons/RemoteControl.png"
+    },
+    {
+      "key":"613",
+      "name":"Flipchart",
+      "iconUrl":"https://www.smartspaceglobal.com/img/icons/Flipchart.png"
+    },
+    {
+      "key":"614",
+      "name":"TV Set",
+      "iconUrl":"https://www.smartspaceglobal.com/img/icons/TV.png"
+    }
+  ],
+  "equipment":[
+    {
+      "key":"711",
+      "name":"Cisco Monitor",
+      "iconUrl":"https://www.smartspaceglobal.com/img/icons/CiscoDisplay.png"
+    },
+    {
+      "key":"712",
+      "name":"Conference Calling",
+      "iconUrl":"https://www.smartspaceglobal.com/img/icons/VideoConference.png"
+    },
+    {
+      "key":"713",
+      "name":"Printer",
+      "iconUrl":"https://www.smartspaceglobal.com/img/icons/Printer.png"
+    },
+    {
+      "key":"714",
+      "name":"Projector",
+      "iconUrl":"https://www.smartspaceglobal.com/img/icons/Projector.png"
+    }
+  ]
+}
